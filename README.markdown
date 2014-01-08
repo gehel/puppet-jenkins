@@ -222,3 +222,7 @@ Resources may be validated in the catalog using:
  * `contain_package('puppet')`
  * And so forth for other Puppet resources.
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/gehel/puppet-jenkins/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
